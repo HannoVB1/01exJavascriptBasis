@@ -16,3 +16,12 @@
  *    ♥♥♥♥
  *    END PROGRAM
  */
+
+ const aantal = prompt("Hoeveel bitches?");
+
+const bitches = ''; 
+
+ for (var i = 1; i <= aantal; i++) {
+   bitches += '♥';
+   console.log(bitches);
+ }

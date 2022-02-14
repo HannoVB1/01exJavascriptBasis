@@ -7,3 +7,6 @@
  */
 'use strict';
 const orderNumber = '14284-4859';
+const Array = orderNumber.split("-");
+let Getal = Array[1];
+console.log(Getal);
