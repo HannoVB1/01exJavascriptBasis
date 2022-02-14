@@ -7,3 +7,6 @@
 let WelcomeMessage = 'Hallo';
 yourName = prompt('Hoe heet je?');
 console.log(WelcomeMessage + ' ' + yourName);
+
+
+//no fucking clue iemand doe pull request
